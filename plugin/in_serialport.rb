@@ -1,1 +1,0 @@
-/Users/katsu/Program/Fluentd/fluent-plugin-serialport/lib/fluent/plugin/in_serialport.rb

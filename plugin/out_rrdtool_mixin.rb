@@ -1,1 +1,0 @@
-/Users/katsu/Program/Fluentd/fluent-plugin-rrdtool/lib/fluent/plugin/out_rrdtool_mixin.rb
